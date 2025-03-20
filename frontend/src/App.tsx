@@ -1,6 +1,5 @@
-import * as React from 'react'
-import Button from '@mui/material/Button'
+import Home from './components/Home'
 
 export default function ButtonUsage() {
-  return <Button variant="contained">Hello world</Button>
+  return <Home />
 }
