@@ -5,17 +5,17 @@ const Home = () => {
     <div>
       <PostBox
         title="Title 1"
-        mediaUrl="https://source.unsplash.com/random/800x600"
+        mediaUrl="https://picsum.photos/800/600"
         description="Description 1"
       />
       <PostBox
         title="Title 2"
-        mediaUrl="https://source.unsplash.com/random/800x601"
+        mediaUrl="https://picsum.photos/800/600"
         description="Description 2"
       />
       <PostBox
         title="Title 3"
-        mediaUrl="https://source.unsplash.com/random/800x602"
+        mediaUrl="https://picsum.photos/800/600"
         description="Description 3"
       />
     </div>
