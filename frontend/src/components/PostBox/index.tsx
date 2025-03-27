@@ -1,4 +1,4 @@
-import { Card, CardMedia, CardContent, Typography } from '@mui/material';
+import { Card, CardMedia, CardContent, Typography } from '@mui/material'
 
 interface PostProps {
   title: string;
