@@ -1,8 +1,10 @@
-import PostBox from '../PostBox'
+import PostBox from '@/components/PostBox'
+import DankDrawer from '@/components/DankDrawer'
 
 const Home = () => {
   return (
     <div>
+      <DankDrawer />
       <PostBox
         title="Title 1"
         mediaUrl="https://picsum.photos/800/600"
